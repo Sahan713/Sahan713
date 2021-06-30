@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/sahan_dev" target="blank"><img src="https://img.shields.io/twitter/follow/sahan_dev?logo=twitter&style=for-the-badge" alt="sahan_dev" /></a> </p>
 
-- 🌱 I’m currently learning **react, laravel, bcs certifications**
+- 🌱 I’m currently doing **some vendor certifications**
 
 - 📝 I regularly write articles on [https://dev.to/sahan713](https://dev.to/sahan713)
 
