@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently doing **some vendor certifications**
 
-- 📝 I regularly write articles on [https://dev.to/sahan713](https://dev.to/sahan713)
+- 📝 I regularly write articles on [https://sahanakalanka.com/](https://dev.to/sahan713)
 
 - 💬 Ask me about **anything related to web dev**
 
