@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Sahan</h1>
-<h3 align="center">A passionate frontend | backend developer from Sri Lanka</h3>
+<h3 align="center">A passionate PHP | Laravel Developer from Sri Lanka</h3>
 
 <p align="left"> <a href="https://twitter.com/sahan_dev" target="blank"><img src="https://img.shields.io/twitter/follow/sahan_dev?logo=twitter&style=for-the-badge" alt="sahan_dev" /></a> </p>
 
