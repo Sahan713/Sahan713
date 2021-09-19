@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Sahan</h1>
 <h3 align="center">A UX Designer | Frontend Developer From Sri Lanka</h3>
 
-<p align="left"> <a href="https://twitter.com/sahan_dev" target="blank"><img src="https://img.shields.io/twitter/follow/sahan_dev?logo=twitter&style=for-the-badge" alt="sahan_dev" /></a> </p>
+<p align="left"> <a href="https://twitter.com/sahanux" target="blank"><img src="https://img.shields.io/twitter/follow/sahan_dev?logo=twitter&style=for-the-badge" alt="sahan_dev" /></a> </p>
 
 - 🌱 I’m currently doing **some vendor certifications**
 
