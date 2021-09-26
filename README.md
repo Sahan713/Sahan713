@@ -6,8 +6,8 @@
 
 - 📝 I regularly write articles on [https://medium.com/@sahanux](https://medium.com/@sahanux)
 
-- 💬 Ask me about **anything related to web dev**
+- 💬 Ask me about **anything related to user experience design and frontend development**
 
-- 📫 How to reach me **sahanakalanka818@gmail.com**
+- 📫 How to reach me **https://www.linkedin.com/in/sahanux/**
 
 
