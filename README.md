@@ -2,7 +2,7 @@
 <h3 align="center">A UX Designer | Frontend Developer From Sri Lanka</h3>
 
 
-- 🌱 I’m currently doing **some vendor certifications**
+- 🌱 I’m currently studying in a design school and in the meantime doing some professional certifications
 
 - 📝 I regularly write articles on [https://medium.com/@sahanux](https://medium.com/@sahanux)
 
