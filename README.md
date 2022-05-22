@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Sahan</h1>
-<h3 align="center">A UI UX Engineer From Sri Lanka</h3>
+<h3 align="center">a UI UX Engineer From Sri Lanka</h3>
 
 
 - 🌱 I’m currently studying in a design school and in the meantime doing some professional certifications
